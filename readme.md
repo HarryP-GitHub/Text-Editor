@@ -76,8 +76,8 @@ ISC
 
 ## Deployed Application
 
-[Link to Deployed Text Editor]()
+[Link to Deployed Text Editor](https://text-editor-cve5.onrender.com/)
 
 ## Screenshot of Text Editor
 
-![]()
+![Screenshot](./screenshot/jatescreenshot.png)
